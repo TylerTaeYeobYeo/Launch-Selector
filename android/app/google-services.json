@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384706813099",
+    "firebase_url": "https://lunch-menu-d2254.firebaseio.com",
+    "project_id": "lunch-menu-d2254",
+    "storage_bucket": "lunch-menu-d2254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384706813099:android:3a0c84372a071ce13debee",
+        "android_client_info": {
+          "package_name": "tyler.lunch_menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384706813099-g0684vmojmhlj1odmtrb4dcta7ntaho7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tyler.lunch_menu",
+            "certificate_hash": "ad5ca24d3c8beb219ef8138b94de6a03614e0561"
+          }
+        },
+        {
+          "client_id": "384706813099-i82qsdfhe103o2s0s0p637qaaqt1rv44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQxD3ewx8aHB3mrSOBIN8riYwebsF8Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384706813099-i82qsdfhe103o2s0s0p637qaaqt1rv44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
